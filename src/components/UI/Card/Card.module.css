@@ -1,0 +1,9 @@
+.card {
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 0px 80px 0px 80px;
+    -webkit-border-radius: 0px 80px 0px 80px;
+    -moz-border-radius: 0px 80px 0px 80px;
+    border: 1px solid;
+    border-color: #55e4d3 !important;
+}
